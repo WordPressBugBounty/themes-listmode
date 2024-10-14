@@ -1,0 +1,2428 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ListMode\n"
+"POT-Creation-Date: 2024-09-30 06:37+0530\n"
+"PO-Revision-Date: 2024-09-30 06:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:30 inc/admin/options/search-404-options.php:53
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#: 404.php:41 inc/admin/options/search-404-options.php:60
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:38
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:44
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s: Year and site name.
+#: footer.php:83
+#, php-format
+msgid "Copyright &copy; %s"
+msgstr ""
+
+#: footer.php:83
+msgid "Y"
+msgstr ""
+
+#. translators: %s: Theme author.
+#: footer.php:85
+#, php-format
+msgid "Design by %s"
+msgstr ""
+
+#: footer.php:95
+msgid "Scroll to Top"
+msgstr ""
+
+#: functions.php:98 header.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:105
+msgid "Close Search"
+msgstr ""
+
+#: inc/admin/customizer.php:28
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/customizer.php:44
+msgid ""
+"To change Background Color, need to remove background image first:- go to "
+"Appearance : Customize : Theme Options : Background Image"
+msgstr ""
+
+#: inc/admin/options/footer-options.php:18
+msgid "Footer Options"
+msgstr ""
+
+#: inc/admin/options/footer-options.php:28
+msgid "Footer copyright notice"
+msgstr ""
+
+#: inc/admin/options/footer-options.php:34
+msgid "Hide Footer Widgets"
+msgstr ""
+
+#: inc/admin/options/getting-started.php:18
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/options/getting-started.php:19
+msgid ""
+"Thanks for your interest in ListMode! If you have any questions or run into "
+"any trouble, please visit us the following links. We will get you fixed up!"
+msgstr ""
+
+#: inc/admin/options/getting-started.php:29
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/options/getting-started.php:35
+msgid "Contact Us"
+msgstr ""
+
+#: inc/admin/options/header-options.php:18
+msgid "Header Options"
+msgstr ""
+
+#: inc/admin/options/header-options.php:29
+msgid "Hide Tagline"
+msgstr ""
+
+#: inc/admin/options/header-options.php:35
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/admin/options/header-options.php:41
+msgid "Enable Sticky Header on Small Screen"
+msgstr ""
+
+#: inc/admin/options/header-options.php:47
+msgid "Hide Header Content"
+msgstr ""
+
+#: inc/admin/options/header-options.php:53
+msgid "Hide Header Social + Search + Login/Logout Buttons"
+msgstr ""
+
+#: inc/admin/options/header-options.php:54
+msgid ""
+"If you checked this option, all buttons will disappear from the header. "
+"There is no effect from these options: \"Show Random Post Button\", \"Show "
+"Login/Logout Button\", \"Hide Search Button\"."
+msgstr ""
+
+#: inc/admin/options/header-options.php:60
+msgid "Show Login/Logout Button"
+msgstr ""
+
+#: inc/admin/options/header-options.php:61
+#: inc/admin/options/header-options.php:68
+msgid ""
+"This option has no effect if you checked the option: \"Hide Header Social + "
+"Search + Login/Logout Buttons\""
+msgstr ""
+
+#: inc/admin/options/header-options.php:67
+msgid "Hide Search Button"
+msgstr ""
+
+#: inc/admin/options/header-options.php:74
+msgid "Header Padding"
+msgstr ""
+
+#: inc/admin/options/header-options.php:75
+msgid "Enter the padding value for header content. Default is \"10px\""
+msgstr ""
+
+#: inc/admin/options/header-options.php:108
+msgid "Logo Location"
+msgstr ""
+
+#: inc/admin/options/header-options.php:109
+msgid ""
+"Select how you want to display the site logo with site title and tagline."
+msgstr ""
+
+#: inc/admin/options/header-options.php:112
+msgid "Before Site Title and Tagline"
+msgstr ""
+
+#: inc/admin/options/header-options.php:113
+msgid "Above Site Title and Tagline"
+msgstr ""
+
+#: inc/admin/options/header-options.php:120
+msgid "Do not Limit the Logo Width"
+msgstr ""
+
+#: inc/admin/options/header-options.php:127
+msgid "Max Width of the Logo"
+msgstr ""
+
+#: inc/admin/options/header-options.php:128
+msgid ""
+"Enter the max-width value for the logo. Default value is \"320px\". Note: "
+"This option has no effect if you check the \"Do not Limit the Logo Width\" "
+"option."
+msgstr ""
+
+#: inc/admin/options/header-options.php:162
+msgid "Hide Header Image from Everywhere"
+msgstr ""
+
+#: inc/admin/options/header-options.php:168
+msgid "Remove Link from Header Image"
+msgstr ""
+
+#: inc/admin/options/header-options.php:174
+msgid "Hide both Title and Description from Header Image"
+msgstr ""
+
+#: inc/admin/options/header-options.php:175
+msgid ""
+"If you checked this option, header image title and description will be "
+"hidden from all screen sizes."
+msgstr ""
+
+#: inc/admin/options/header-options.php:181
+msgid "Hide Title from Header Image"
+msgstr ""
+
+#: inc/admin/options/header-options.php:182
+msgid ""
+"If you checked this option, header image title will be hidden from all "
+"screen sizes. This option has no effect if you have checked the option: "
+"\"Hide both Title and Description from Header Image\""
+msgstr ""
+
+#: inc/admin/options/header-options.php:188
+msgid "Hide Description from Header Image"
+msgstr ""
+
+#: inc/admin/options/header-options.php:189
+msgid ""
+"If you checked this option, header image description will be hidden from all "
+"screen sizes. This option has no effect if you have checked the option: "
+"\"Hide both Title and Description from Header Image\""
+msgstr ""
+
+#: inc/admin/options/header-options.php:195
+msgid "Show Header Image Title on Smaller Screens"
+msgstr ""
+
+#: inc/admin/options/header-options.php:196
+msgid ""
+"This option has no effect if you have checked any of these options: \"Hide "
+"both Title and Description from Header Image\", \"Hide Title from Header "
+"Image\""
+msgstr ""
+
+#: inc/admin/options/header-options.php:202
+msgid "Show Header Image Description on Smaller Screens"
+msgstr ""
+
+#: inc/admin/options/header-options.php:203
+msgid ""
+"This option has no effect if you have checked any of these options: \"Hide "
+"both Title and Description from Header Image\", \"Hide Description from "
+"Header Image\""
+msgstr ""
+
+#: inc/admin/options/header-options.php:209
+msgid "Add Custom Title/Custom Description to Header Image"
+msgstr ""
+
+#: inc/admin/options/header-options.php:215
+msgid "Header Image Custom Title"
+msgstr ""
+
+#: inc/admin/options/header-options.php:221
+msgid "Header Image Custom Description"
+msgstr ""
+
+#: inc/admin/options/header-options.php:227
+msgid "Header Image Destination URL"
+msgstr ""
+
+#: inc/admin/options/header-options.php:228
+msgid ""
+"Enter the URL a visitor should go when he/she clicks on the header image. If "
+"you did not enter a URL below, the header image will be linked to the "
+"homepage of your website."
+msgstr ""
+
+#: inc/admin/options/header-options.php:234
+msgid "Add a Minimum Height to Header Image on Smaller Screens"
+msgstr ""
+
+#: inc/admin/options/header-options.php:240
+msgid "Header Image Minimum Height on Smaller Screens"
+msgstr ""
+
+#: inc/admin/options/header-options.php:241
+msgid ""
+"Enter the minimum height value for header image height. Default is \"200px"
+"\". Note: This option has no effect until you check \"Add a Minimum Height "
+"to Header Image on Smaller Screens\" option."
+msgstr ""
+
+#: inc/admin/options/header-options.php:247
+msgid "Header Image Alt Text"
+msgstr ""
+
+#: inc/admin/options/menu-options.php:18
+msgid "Menu Options"
+msgstr ""
+
+#: inc/admin/options/menu-options.php:26 inc/functions/menu-functions.php:52
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/options/menu-options.php:28
+msgid "Primary Menu Mobile Text"
+msgstr ""
+
+#: inc/admin/options/menu-options.php:34
+msgid "Disable Primary Menu"
+msgstr ""
+
+#: inc/admin/options/navigation-options.php:18
+msgid "Post/Posts Navigation Options"
+msgstr ""
+
+#: inc/admin/options/navigation-options.php:28
+msgid "Hide Post Navigation from Single Posts"
+msgstr ""
+
+#: inc/admin/options/navigation-options.php:34
+msgid "Hide Posts Navigation from Home/Archive/Search Pages"
+msgstr ""
+
+#: inc/admin/options/navigation-options.php:40
+msgid "Posts Navigation Type"
+msgstr ""
+
+#: inc/admin/options/navigation-options.php:41
+msgid ""
+"Select posts navigation type you need. If you activate WP-PageNavi plugin, "
+"this navigation will be replaced by WP-PageNavi navigation."
+msgstr ""
+
+#: inc/admin/options/navigation-options.php:44
+msgid "Link Navigation"
+msgstr ""
+
+#: inc/admin/options/navigation-options.php:45
+msgid "Numbered Navigation"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:18
+msgid "Posts Summaries Options"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:19
+msgid ""
+"To display your latest posts on your homepage, please set the \"Your "
+"homepage displays\" option to \"Your latest posts.\" You can find this "
+"setting in your WordPress Dashboard by navigating to \"Settings\" -> "
+"\"Reading\" -> \"Your homepage displays.\""
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:29
+msgid "Hide HomePage Posts Heading"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:33
+#: inc/admin/options/slider-options.php:70 index.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:35
+msgid "HomePage Posts Heading"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:41
+msgid "Hide Thumbnails from Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:47
+msgid "Hide Default Images from Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:53
+msgid "Remove Links from Thumbnails of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:59
+msgid "Hide Post Titles from Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:65
+msgid "Remove Links from Post Titles of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:71
+msgid "Limit the Length of Post Titles of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:77
+msgid "Maximum Length of Post Titles of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:79
+msgid ""
+"Enter the maximum length of post titles for post summaries on the homepage."
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:84
+msgid "Hide Post Authors from Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:90
+msgid "Remove Links from Post Authors of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:96
+msgid "Hide Post Dates from Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:102
+msgid "Post Date Type of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:104
+msgid ""
+"Select the type of post date to display in post summaries on the homepage."
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:109
+msgid "Show Comment Links from Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:115
+msgid "Show Post Categories on Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:121
+msgid "Remove Links from Post Categories of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:127
+msgid "Post Categories Pre Text"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:129
+msgid ""
+"Enter the pre-text for post categories in post summaries on the homepage."
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:134
+msgid "Show Post Tags on Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:140
+msgid "Remove Links from Post Tags of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:146
+msgid "Post Tags Pre Text"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:148
+msgid "Enter the pre-text for post tags in post summaries on the homepage."
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:153
+msgid "Hide Post Snippets from Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:159
+msgid "Post Snippets Length of Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:161
+msgid "Enter the length of post snippets for post summaries on the homepage."
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:166
+msgid "Show Read More Buttons on Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:170
+#: inc/functions/other-functions.php:17
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:172
+msgid "Read More Text"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:178
+msgid "Posts Summaries Padding"
+msgstr ""
+
+#: inc/admin/options/non-singular-post-options.php:180
+msgid "Enter the padding for post summaries on the homepage."
+msgstr ""
+
+#: inc/admin/options/other-options.php:18
+msgid "Other Options"
+msgstr ""
+
+#: inc/admin/options/other-options.php:28
+msgid "Enable Gutenberg Widget Block Editor"
+msgstr ""
+
+#: inc/admin/options/other-options.php:34
+msgid "Disable Site Loading Animation"
+msgstr ""
+
+#: inc/admin/options/other-options.php:40
+msgid "Disable Sticky Feature from Sidebar"
+msgstr ""
+
+#: inc/admin/options/other-options.php:46
+msgid "Disable FitVids.JS"
+msgstr ""
+
+#: inc/admin/options/other-options.php:47
+msgid ""
+"You can disable fitvids.js script if you are not using videos on your "
+"website or if you do not want fluid width videos in your post content."
+msgstr ""
+
+#: inc/admin/options/other-options.php:53
+msgid "Disable Back to Top Button"
+msgstr ""
+
+#: inc/admin/options/sanitize-callbacks.php:75
+#: inc/admin/options/slider-options.php:50
+msgid "Home Page"
+msgstr ""
+
+#: inc/admin/options/sanitize-callbacks.php:76
+#: inc/admin/options/slider-options.php:51
+msgid "Static Home Page"
+msgstr ""
+
+#: inc/admin/options/sanitize-callbacks.php:77
+#: inc/admin/options/slider-options.php:52
+msgid "Blog Posts Index Page"
+msgstr ""
+
+#: inc/admin/options/sanitize-callbacks.php:78
+#: inc/admin/options/slider-options.php:53
+msgid "Everywhere"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:18
+msgid "Search and 404 Pages Options"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:28
+msgid "Hide Search Results Heading"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:32 search.php:34
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:34
+msgid "Search Results Heading"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:35
+msgid "Enter a sentence to display before the search query."
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:39
+#: template-parts/content-none.php:21
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:41
+msgid "No Search Results Heading"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:42
+msgid "Enter a heading to display when no search results are found."
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:46
+#: template-parts/content-none.php:50
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:48
+msgid "No Search Results Message"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:49
+msgid "Enter a message to display when no search results are found."
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:55
+msgid "404 Error Page Heading"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:56
+msgid "Enter the heading for the 404 error page."
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:62
+msgid "Error 404 Message"
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:63
+msgid "Enter a message to display on the 404 error page."
+msgstr ""
+
+#: inc/admin/options/search-404-options.php:69
+msgid "Hide Search Box from 404 Page"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:18
+msgid "Page Options"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:28
+#: inc/admin/options/singular-post-options.php:28
+msgid "Featured Image Link"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:29
+msgid "Do you want the featured image in a page to be linked to its page?"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:31
+#: inc/admin/options/singular-post-options.php:31
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:31
+#: inc/admin/options/singular-post-options.php:31
+msgid "No"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:36
+msgid "Hide Featured Image from Single Pages"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:42
+msgid "Hide Page Header from Single Pages"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:48
+msgid "Remove Link from Single Page Titles"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:54
+msgid "Hide Page Date from Single Pages"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:60
+msgid "Page Date Type"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:61
+msgid "You can choose to display published or updated date on your page."
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:63
+#: inc/admin/options/singular-post-options.php:70
+#: inc/admin/options/slider-options.php:188
+msgid "Published"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:63
+#: inc/admin/options/singular-post-options.php:70
+#: inc/admin/options/slider-options.php:189
+msgid "Updated"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:68
+msgid "Hide Page Author from Single Pages"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:74
+msgid "Hide Comment Link from Single Pages"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:80
+msgid "Hide Comments/Comment Form from Single Pages"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:86
+msgid "Hide Edit Link from Single Pages"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:92
+msgid "Hide Page Header from Static Homepage"
+msgstr ""
+
+#: inc/admin/options/singular-page-options.php:98
+msgid ""
+"Hide Page Meta Data (Page Date, Page Author, Comment Link) from Static "
+"Homepage"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:18
+msgid "Singular Post Options"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:29
+msgid "Do you want single post thumbnail to be linked to their post?"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:36
+msgid "Hide Featured Image from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:42
+msgid "Activate Full Width Featured Image for Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:43
+msgid ""
+"If your full post featured image width is smaller than its post content, "
+"clicking this option it will display as full width image."
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:49
+msgid "Hide Post Header from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:55
+msgid "Remove Links from Single Post Titles"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:61
+msgid "Hide Post Date from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:67
+msgid "Post Date Type"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:68
+msgid "You can choose to display published or updated date on your post."
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:75
+msgid "Hide Post Author from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:81
+msgid "Hide Post Categories from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:87
+msgid "Hide Post Tags from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:93
+msgid "Hide Comment Link from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:99
+msgid "Hide Comments/Comment Form from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:105
+msgid "Show Post Edit Link on Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:111
+msgid "Hide Author Bio Box from Single Posts"
+msgstr ""
+
+#: inc/admin/options/singular-post-options.php:117
+msgid "Do not Underline the Links within the Content"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:18
+msgid "Slider Options"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:28
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:34
+msgid "Show Slider Heading"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:38 inc/functions/slider.php:124
+msgid "Featured Posts Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:40
+msgid "Slider Heading"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:46
+msgid "Slider Display Location"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:47
+msgid "Select the slider display location."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:59
+msgid "Number of Posts on Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:60
+msgid ""
+"Enter the number of posts you need to display in the slider area. Default is "
+"10 posts."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:66
+msgid "Slider Posts Type"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:67
+msgid "Select a post type to display in the slider."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:71
+msgid "Category Posts"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:72
+msgid "Tag Posts"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:78
+msgid "Slider Posts Category"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:79
+msgid "Select a category if \"Slider Posts Type\" option is Category Posts"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:85
+msgid "Slider Posts Tag"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:86
+msgid "Select a tag if \"Slider Posts Type\" option is Tag Posts"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:92
+msgid "Slider Posts Orderby"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:93
+msgid "Select a posts orderby value for slider."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:96
+msgid "Published Date"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:97
+msgid "Modified Date"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:98
+msgid "Number of Comments"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:104
+msgid "Slider Posts Order"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:105
+msgid "Select a posts order value for slider."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:108
+msgid "Ascending order"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:109
+msgid "Descending order"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:115
+msgid "Hide Featured Images from Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:121
+msgid "Hide Default Featured Image from Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:122
+msgid ""
+"The default thumbnail image is shown when there is no featured image is set."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:128
+msgid "Remove Links from Slider Featured Images"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:134
+msgid "Hide Post Titles from Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:140
+msgid "Remove Links from Slider Post Titles"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:146
+msgid "Limit the Length of Slider Post Titles"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:152
+msgid "Maximum Length of Slider Post Titles"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:153
+msgid ""
+"Enter the maximum number of words need to display in slider post titles. "
+"Default is 6 words. This option only work if you have checked the option "
+"\"Limit the Length of Slider Post Titles\"."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:159
+msgid "Hide Post Authors from Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:165
+msgid "Remove Links from Slider Post Authors"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:171
+msgid "Hide Posted Dates from Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:177
+msgid "Slider Date Format"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:178
+msgid "Default value: F j, Y"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:184
+msgid "Slider Post Date Type"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:185
+msgid "You can choose to display published or updated date of your post."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:195
+msgid "Show Post Comments on Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:201
+msgid "Show Post Categories on Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:207
+msgid "Remove Links from Slider Post Categories"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:213
+msgid "Slider Post Categories Pre Text"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:214
+msgid ""
+"Enter a text to display before post categories. For example, you can add the "
+"text \"Posted in:\"."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:220
+msgid "Show Post Tags on Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:226
+msgid "Remove Links from Slider Post Tags"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:232
+msgid "Slider Post Tags Pre Text"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:233
+msgid ""
+"Enter a text to display before post tags. For example, you can add the text "
+"\"Tagged:\"."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:239
+msgid "Hide Post Snippets from Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:245
+msgid "Post Snippets Type of Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:248
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:249
+msgid "Post Content"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:255
+msgid "Post Snippets Length of Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:256
+msgid ""
+"Enter the number of words need to display in slider post summaries. Default "
+"is 20 words. This option only work if you have selected \"Post Content\" "
+"value for \"Post Snippets Type of Slider\" option. To change \"Post Excerpt"
+"\" length, go to Appearance : Customize : Theme Options : Posts Summaries "
+"Options : Post Snippets Length of Posts Summaries."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:262
+msgid "Enable Autoplay for Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:268
+msgid "Enable \"Pause on Mouse Hover\" Feature for Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:269
+msgid ""
+"When you enable this feature, slides will pause on mouse hover. This option "
+"has no effect until you check the option \"Enable Autoplay for Slider\"."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:275
+msgid "Slider \"Autoplay Interval Timeout\""
+msgstr ""
+
+#: inc/admin/options/slider-options.php:276
+msgid ""
+"Enter the slider autoplay interval timeout in milliseconds. Default is 1000. "
+"This option has no effect until you check the option \"Enable Autoplay for "
+"Slider\"."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:282
+msgid "Slider \"Autoplay Speed\""
+msgstr ""
+
+#: inc/admin/options/slider-options.php:283
+msgid ""
+"Enter the slider autoplay speed in milliseconds. Default is 200. This option "
+"has no effect until you check the option \"Enable Autoplay for Slider\"."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:289
+msgid "Enable \"Loop\" Feature for Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:290
+msgid ""
+"When you enable this feature, it will duplicate last and first slide items "
+"to get loop illusion."
+msgstr ""
+
+#: inc/admin/options/slider-options.php:296
+msgid "Show Dots Navigation(Pagination) on Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:302
+msgid "Hide next/prev Buttons(Navigation) from Slider"
+msgstr ""
+
+#: inc/admin/options/slider-options.php:310
+msgid "Enable \"Auto Height\" Feature on Slider"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:18
+msgid "Social Links Options"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:25
+msgid "X URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:26
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:27
+msgid "Threads URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:28
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:29
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:30
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:31
+msgid "VK URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:32
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:33
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:34
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:35
+msgid "Soundcloud URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:36
+msgid "Messenger URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:37
+msgid "WhatsApp URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:38
+msgid "TikTok URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:39
+msgid "Lastfm URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:40
+msgid "Medium URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:41
+msgid "Github URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:42
+msgid "Bitbucket URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:43
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:44
+msgid "Digg URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:45
+msgid "Delicious URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:46
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:47
+msgid "Mix URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:48
+msgid "Reddit URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:49
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:50
+msgid "Flipboard URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:51
+msgid "Blogger URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:52
+msgid "Etsy URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:53
+msgid "Behance URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:54
+msgid "Amazon URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:55
+msgid "Meetup URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:56
+msgid "Mixcloud URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:57
+msgid "Slack URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:58
+msgid "Snapchat URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:59
+msgid "Spotify URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:60
+msgid "Yelp URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:61
+msgid "WordPress URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:62
+msgid "Twitch URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:63
+msgid "Telegram URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:64
+msgid "Bandcamp URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:65
+msgid "Quora URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:66
+msgid "Foursquare URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:67
+msgid "DeviantArt URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:68
+msgid "IMDB URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:69
+msgid "Codepen URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:70
+msgid "JSFiddle URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:71
+msgid "Stack Overflow URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:72
+msgid "Stack Exchange URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:73
+msgid "BuySellAds URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:74
+msgid "500px URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:75
+msgid "Ello URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:76
+msgid "Discord URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:77
+msgid "Goodreads URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:78
+msgid "Odnoklassniki URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:79
+msgid "Houzz URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:80
+msgid "Pocket URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:81
+msgid "XING URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:82
+msgid "Mastodon URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:83
+msgid "Google Play URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:84
+msgid "SlideShare URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:85
+msgid "Dropbox URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:86
+msgid "PayPal URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:87
+msgid "Viadeo URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:88
+msgid "Wikipedia URL"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:89
+msgid "Skype Username"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:90
+msgid "Email Address"
+msgstr ""
+
+#: inc/admin/options/social-profiles.php:91
+msgid "RSS Feed URL"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:18
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:32
+msgid "Color Options"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:33
+msgid "Font Options"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:34
+msgid "1/2/3/4/5 Columns for Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:35
+msgid "Thumbnail Sizes Options for Posts Summaries"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:36
+msgid "Featured Posts Slider with More Options"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:37
+msgid "Layout Options for Posts/Pages"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:38
+msgid "Layout Options for Non-Singular Pages"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:39
+msgid ""
+"Width Change Options for Header/Secondary Menu/Slider/News Ticker/Footer/"
+"Main Area/Content/Sidebar"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:40
+msgid ""
+"Ajax Powered Featured Posts Widgets (Recent/Categories/Tags/PostIDs based)"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:41
+msgid "Ajax Powered Tabbed Widget (Recent/Categories/Tags/PostIDs based)"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:42
+msgid "Custom Page Templates"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:43
+msgid "Custom Post Templates"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:44
+msgid "Settings Panel to Control Options in Each Post"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:45
+msgid "Settings Panel to Control Options in Each Page"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:46
+msgid ""
+"Ability to Control Layout Style/Widths/Header Style/Footer Style of each "
+"Post/Page"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:47
+msgid ""
+"Capability to Add Different Header Images for Each Post/Page with Unique "
+"Link, Title and Description"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:48
+msgid "About and Social Widget - 60+ Social Buttons"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:49
+msgid ""
+"News Ticker (Recent/Categories/Tags/PostIDs based) - It can display posts "
+"according to Likes/Views/Comments/Dates/... and there are many options."
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:50
+msgid ""
+"Header Styles with Width Options - (Logo + Primary Menu + Social Buttons) / "
+"(Logo + Header Banner) / (Full Width Header)"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:51
+msgid "Footer Layout Styles (1/2/3/4/5/6 Columns) with Width Options"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:52
+msgid "Built-in Posts Views Counter"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:53
+msgid "Built-in Posts Likes System"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:54
+msgid "Built-in Infinite Scroll and Load More Button"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:55
+msgid "Post Share Buttons with Options - 25+ Social Networks are Supported"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:56
+msgid "Related Posts (Categories/Tags/Author/PostIDs based) with Options"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:57
+msgid "Author Bio Box with Social Buttons - 60+ Social Buttons"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:58
+msgid "Ability to add Ads under Post Title and under Post Content"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:59
+msgid "Ability to Enable/Disable Mobile View from Primary and Secondary Menus"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:60
+msgid "Ability to Disable Google Fonts - for faster loading"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:61
+msgid "Sticky Header/Sticky Sidebar with enable/disable capability"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:62
+msgid "Post Navigation with Thumbnails"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:63
+msgid "More Widget Areas"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:64
+msgid "Built-in Contact Form"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:65
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:66
+msgid "Yoast SEO Breadcrumbs Support"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:67
+msgid "Search Engine Optimized"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:68
+msgid "Full RTL Language Support"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:69
+msgid "Random Posts Button in Header"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:70
+msgid "Many Useful Customizer Theme options"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:71
+msgid "More Features..."
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:85
+msgid "ListMode Pro"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:88
+msgid "Do you enjoy ListMode? Upgrade to ListMode Pro now and get:"
+msgstr ""
+
+#: inc/admin/options/upgrade-to-pro.php:88
+msgid "Upgrade To ListMode PRO"
+msgstr ""
+
+#: inc/functions/block-styles.php:19
+msgid "ListMode Button"
+msgstr ""
+
+#: inc/functions/enqueue-scripts.php:182
+msgid ""
+"abbr article aside audio bdi canvas data datalist details dialog figcaption "
+"figure footer header hgroup main mark meter nav output picture progress "
+"section summary template time video"
+msgstr ""
+
+#: inc/functions/navigation-functions.php:47
+msgid "Older posts"
+msgstr ""
+
+#: inc/functions/navigation-functions.php:47
+msgid "Newer posts"
+msgstr ""
+
+#: inc/functions/navigation-functions.php:49
+msgid "&larr; Newer posts"
+msgstr ""
+
+#: inc/functions/navigation-functions.php:49
+msgid "Older posts &rarr;"
+msgstr ""
+
+#: inc/functions/navigation-functions.php:61
+msgid "%title &rarr;"
+msgstr ""
+
+#: inc/functions/navigation-functions.php:61
+msgid "&larr; %title"
+msgstr ""
+
+#: inc/functions/post-author-bio-functions.php:49
+msgid "Author: "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/functions/postmeta.php:18 inc/functions/postmeta.php:100
+#: inc/functions/slider.php:210
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/functions/postmeta.php:21
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space
+#. translators: used between list items, there is a space after the comma
+#: inc/functions/postmeta.php:63 inc/functions/postmeta.php:85
+#: inc/functions/postmeta.php:122 inc/functions/postmeta.php:154
+#: inc/functions/slider.php:172 inc/functions/slider.php:181
+#: inc/functions/slider.php:201
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: inc/functions/postmeta.php:140 inc/functions/slider.php:248
+#: template-parts/content-miniview.php:91
+#, php-format
+msgid "0 Comments<span class=\"listmode-sr-only\"> on %s</span>"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/functions/postmeta.php:157
+#, php-format
+msgid "<span class=\"listmode-sr-only\">Posted in </span>%1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/functions/postmeta.php:178 inc/functions/postmeta.php:202
+#, php-format
+msgid "Leave a Comment<span class=\"listmode-sr-only\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post.0 Only visible to screen readers
+#: inc/functions/postmeta.php:180
+#, php-format
+msgid "Edit<span class=\"listmode-sr-only\"> %s</span>"
+msgstr ""
+
+#. translators: %s: post title.
+#: inc/functions/slider.php:145 inc/functions/slider.php:154
+#: template-parts/content-miniview.php:26
+#: template-parts/content-miniview.php:37 template-parts/content-page.php:54
+#: template-parts/content-page.php:56 template-parts/content-single.php:57
+#: template-parts/content-single.php:59
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: inc/functions/social-buttons.php:18
+msgid "X Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:18
+msgid "X"
+msgstr ""
+
+#: inc/functions/social-buttons.php:19
+msgid "Facebook Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:19
+msgid "Facebook"
+msgstr ""
+
+#: inc/functions/social-buttons.php:20
+msgid "Threads Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:20
+msgid "Threads"
+msgstr ""
+
+#: inc/functions/social-buttons.php:21
+msgid "Pinterest Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:21
+msgid "Pinterest"
+msgstr ""
+
+#: inc/functions/social-buttons.php:22
+msgid "LinkedIn Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:22
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/functions/social-buttons.php:23
+msgid "Instagram Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:23
+msgid "Instagram"
+msgstr ""
+
+#: inc/functions/social-buttons.php:24
+msgid "Flickr Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:24
+msgid "Flickr"
+msgstr ""
+
+#: inc/functions/social-buttons.php:25
+msgid "YouTube Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:25
+msgid "YouTube"
+msgstr ""
+
+#: inc/functions/social-buttons.php:26
+msgid "Vimeo Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:26
+msgid "Vimeo"
+msgstr ""
+
+#: inc/functions/social-buttons.php:27
+msgid "SoundCloud Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:27
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/functions/social-buttons.php:28
+msgid "Messenger Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:28
+msgid "Messenger"
+msgstr ""
+
+#: inc/functions/social-buttons.php:29
+msgid "WhatsApp Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:29
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/functions/social-buttons.php:30
+msgid "TikTok Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:30
+msgid "TikTok"
+msgstr ""
+
+#: inc/functions/social-buttons.php:31
+msgid "Last.fm Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:31
+msgid "Last.fm"
+msgstr ""
+
+#: inc/functions/social-buttons.php:32
+msgid "Medium Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:32
+msgid "Medium"
+msgstr ""
+
+#: inc/functions/social-buttons.php:33
+msgid "GitHub Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:33
+msgid "GitHub"
+msgstr ""
+
+#: inc/functions/social-buttons.php:34
+msgid "Bitbucket Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:34
+msgid "Bitbucket"
+msgstr ""
+
+#: inc/functions/social-buttons.php:35
+msgid "Tumblr Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:35
+msgid "Tumblr"
+msgstr ""
+
+#: inc/functions/social-buttons.php:36
+msgid "Digg Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:36
+msgid "Digg"
+msgstr ""
+
+#: inc/functions/social-buttons.php:37
+msgid "Delicious Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:37
+msgid "Delicious"
+msgstr ""
+
+#: inc/functions/social-buttons.php:38
+msgid "StumbleUpon Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:38
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/functions/social-buttons.php:39
+msgid "Mix Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:39
+msgid "Mix"
+msgstr ""
+
+#: inc/functions/social-buttons.php:40
+msgid "Reddit Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:40
+msgid "Reddit"
+msgstr ""
+
+#: inc/functions/social-buttons.php:41
+msgid "Dribbble Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:41
+msgid "Dribbble"
+msgstr ""
+
+#: inc/functions/social-buttons.php:42
+msgid "Flipboard Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:42
+msgid "Flipboard"
+msgstr ""
+
+#: inc/functions/social-buttons.php:43
+msgid "Blogger Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:43
+msgid "Blogger"
+msgstr ""
+
+#: inc/functions/social-buttons.php:44
+msgid "Etsy Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:44
+msgid "Etsy"
+msgstr ""
+
+#: inc/functions/social-buttons.php:45
+msgid "Behance Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:45
+msgid "Behance"
+msgstr ""
+
+#: inc/functions/social-buttons.php:46
+msgid "Amazon Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:46
+msgid "Amazon"
+msgstr ""
+
+#: inc/functions/social-buttons.php:47
+msgid "Meetup Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:47
+msgid "Meetup"
+msgstr ""
+
+#: inc/functions/social-buttons.php:48
+msgid "Mixcloud Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:48
+msgid "Mixcloud"
+msgstr ""
+
+#: inc/functions/social-buttons.php:49
+msgid "Slack Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:49
+msgid "Slack"
+msgstr ""
+
+#: inc/functions/social-buttons.php:50
+msgid "Snapchat Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:50
+msgid "Snapchat"
+msgstr ""
+
+#: inc/functions/social-buttons.php:51
+msgid "Spotify Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:51
+msgid "Spotify"
+msgstr ""
+
+#: inc/functions/social-buttons.php:52
+msgid "Yelp Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:52
+msgid "Yelp"
+msgstr ""
+
+#: inc/functions/social-buttons.php:53
+msgid "WordPress Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:53
+msgid "WordPress"
+msgstr ""
+
+#: inc/functions/social-buttons.php:54
+msgid "Twitch Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:54
+msgid "Twitch"
+msgstr ""
+
+#: inc/functions/social-buttons.php:55
+msgid "Telegram Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:55
+msgid "Telegram"
+msgstr ""
+
+#: inc/functions/social-buttons.php:56
+msgid "Bandcamp Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:56
+msgid "Bandcamp"
+msgstr ""
+
+#: inc/functions/social-buttons.php:57
+msgid "Quora Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:57
+msgid "Quora"
+msgstr ""
+
+#: inc/functions/social-buttons.php:58
+msgid "Foursquare Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:58
+msgid "Foursquare"
+msgstr ""
+
+#: inc/functions/social-buttons.php:59
+msgid "DeviantArt Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:59
+msgid "DeviantArt"
+msgstr ""
+
+#: inc/functions/social-buttons.php:60
+msgid "IMDb Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:60
+msgid "IMDb"
+msgstr ""
+
+#: inc/functions/social-buttons.php:61
+msgid "VKontakte Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:61
+msgid "VKontakte"
+msgstr ""
+
+#: inc/functions/social-buttons.php:62
+msgid "CodePen Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:62
+msgid "CodePen"
+msgstr ""
+
+#: inc/functions/social-buttons.php:63
+msgid "JSFiddle Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:63
+msgid "JSFiddle"
+msgstr ""
+
+#: inc/functions/social-buttons.php:64
+msgid "Stack Overflow Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:64
+msgid "Stack Overflow"
+msgstr ""
+
+#: inc/functions/social-buttons.php:65
+msgid "Stack Exchange Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:65
+msgid "Stack Exchange"
+msgstr ""
+
+#: inc/functions/social-buttons.php:66
+msgid "Bootstrap Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:66
+msgid "Bootstrap"
+msgstr ""
+
+#: inc/functions/social-buttons.php:67
+msgid "500px Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:67
+msgid "500px"
+msgstr ""
+
+#: inc/functions/social-buttons.php:68
+msgid "Ello Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:68
+msgid "Ello"
+msgstr ""
+
+#: inc/functions/social-buttons.php:69
+msgid "Discord Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:69
+msgid "Discord"
+msgstr ""
+
+#: inc/functions/social-buttons.php:70
+msgid "Goodreads Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:70
+msgid "Goodreads"
+msgstr ""
+
+#: inc/functions/social-buttons.php:71
+msgid "Odnoklassniki Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:71
+msgid "Odnoklassniki"
+msgstr ""
+
+#: inc/functions/social-buttons.php:72
+msgid "Houzz Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:72
+msgid "Houzz"
+msgstr ""
+
+#: inc/functions/social-buttons.php:73
+msgid "Pocket Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:73
+msgid "Pocket"
+msgstr ""
+
+#: inc/functions/social-buttons.php:74
+msgid "Xing Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:74
+msgid "Xing"
+msgstr ""
+
+#: inc/functions/social-buttons.php:75
+msgid "Mastodon Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:75
+msgid "Mastodon"
+msgstr ""
+
+#: inc/functions/social-buttons.php:76
+msgid "Google Play Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:76
+msgid "Google Play"
+msgstr ""
+
+#: inc/functions/social-buttons.php:77
+msgid "SlideShare Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:77
+msgid "SlideShare"
+msgstr ""
+
+#: inc/functions/social-buttons.php:78
+msgid "Dropbox Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:78
+msgid "Dropbox"
+msgstr ""
+
+#: inc/functions/social-buttons.php:79
+msgid "PayPal Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:79
+msgid "PayPal"
+msgstr ""
+
+#: inc/functions/social-buttons.php:80
+msgid "Viadeo Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:80
+msgid "Viadeo"
+msgstr ""
+
+#: inc/functions/social-buttons.php:81
+msgid "Wikipedia Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:81
+msgid "Wikipedia"
+msgstr ""
+
+#: inc/functions/social-buttons.php:98
+msgid "Logout Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:98
+msgid "Logout"
+msgstr ""
+
+#: inc/functions/social-buttons.php:100
+msgid "Login / Register Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:100
+msgid "Login / Register"
+msgstr ""
+
+#: inc/functions/social-buttons.php:105
+msgid "Search Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:105
+msgid "Search"
+msgstr ""
+
+#: inc/functions/social-buttons.php:119
+msgid "Skype Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:119
+msgid "Skype"
+msgstr ""
+
+#: inc/functions/social-buttons.php:123
+msgid "Email Us Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:123
+msgid "Email Us"
+msgstr ""
+
+#: inc/functions/social-buttons.php:127
+msgid "RSS Button"
+msgstr ""
+
+#: inc/functions/social-buttons.php:127
+msgid "RSS"
+msgstr ""
+
+#: inc/functions/widgets-init.php:46
+msgid "Sidebar 1 Widgets"
+msgstr ""
+
+#: inc/functions/widgets-init.php:47
+msgid "This widget area is located on the left-hand side of your web page."
+msgstr ""
+
+#: inc/functions/widgets-init.php:55
+msgid "Top Full Width Widgets (Everywhere)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:56
+msgid ""
+"This full-width widget area is located after the primary menu of your "
+"website. Widgets of this widget area are displayed on every page of your "
+"website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:64
+msgid "Top Full Width Widgets (Default HomePage)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:65
+msgid ""
+"This full-width widget area is located after the primary menu of your "
+"website. Widgets of this widget area are displayed on the default homepage "
+"of your website (when you are showing your latest posts on homepage)."
+msgstr ""
+
+#: inc/functions/widgets-init.php:73
+msgid "Above Content Widgets (Everywhere)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:74
+msgid ""
+"This widget area is located at the top of the main content of your website. "
+"Widgets of this widget area are displayed on every page of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:82
+msgid "Above Content Widgets (Default HomePage)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:83
+msgid ""
+"This widget area is located at the top of the main content of your website. "
+"Widgets of this widget area are displayed on the default homepage of your "
+"website (when you are showing your latest posts on homepage)."
+msgstr ""
+
+#: inc/functions/widgets-init.php:91
+msgid "Below Content Widgets (Everywhere)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:92
+msgid ""
+"This widget area is located at the bottom of the main content of your "
+"website. Widgets of this widget area are displayed on every page of your "
+"website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:100
+msgid "Below Content Widgets (Default HomePage)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:101
+msgid ""
+"This widget area is located at the bottom of the main content of your "
+"website. Widgets of this widget area are displayed on the default homepage "
+"of your website (when you are showing your latest posts on homepage)."
+msgstr ""
+
+#: inc/functions/widgets-init.php:109
+msgid "Bottom Full Width Widgets (Everywhere)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:110
+msgid ""
+"This full-width widget area is located before the footer of your website. "
+"Widgets of this widget area are displayed on every page of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:118
+msgid "Bottom Full Width Widgets (Default HomePage)"
+msgstr ""
+
+#: inc/functions/widgets-init.php:119
+msgid ""
+"This full-width widget area is located before the footer of your website. "
+"Widgets of this widget area are displayed on the default homepage of your "
+"website (when you are showing your latest posts on homepage)."
+msgstr ""
+
+#: inc/functions/widgets-init.php:127
+msgid "Single Post Bottom Widgets"
+msgstr ""
+
+#: inc/functions/widgets-init.php:128
+msgid ""
+"This widget area is located at the bottom of single post of any post type "
+"(except attachments and pages)."
+msgstr ""
+
+#: inc/functions/widgets-init.php:136
+msgid "Footer Top"
+msgstr ""
+
+#: inc/functions/widgets-init.php:137
+msgid "This widget area is located on the top of the footer of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:145
+msgid "Footer 1"
+msgstr ""
+
+#: inc/functions/widgets-init.php:146
+msgid "This widget area is the column 1 of the footer of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:154
+msgid "Footer 2"
+msgstr ""
+
+#: inc/functions/widgets-init.php:155
+msgid "This widget area is the column 2 of the footer of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:163
+msgid "Footer 3"
+msgstr ""
+
+#: inc/functions/widgets-init.php:164
+msgid "This widget area is the column 3 of the footer of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:172
+msgid "Footer 4"
+msgstr ""
+
+#: inc/functions/widgets-init.php:173
+msgid "This widget area is the column 4 of the footer of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:181
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/functions/widgets-init.php:182
+msgid ""
+"This widget area is located on the bottom of the footer of your website."
+msgstr ""
+
+#: inc/functions/widgets-init.php:190
+msgid "404 Page Widgets"
+msgstr ""
+
+#: inc/functions/widgets-init.php:191
+msgid "This widget area is located on the 404(not found) page of your website."
+msgstr ""
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "&#xf002;"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:34
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:57
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:66 template-parts/content-single.php:69
+#, php-format
+msgid ""
+"Continue reading<span class=\"listmode-sr-only\"> \"%s\"</span> <span class="
+"\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-page.php:77 template-parts/content-single.php:80
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:94
+#, php-format
+msgid "Edit <span class=\"listmode-sr-only\">%s</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "ListMode"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themesdna.com/listmode-wordpress-theme/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemesDNA"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themesdna.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width, no sidebar"
+msgstr ""
